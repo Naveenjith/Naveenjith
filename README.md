@@ -47,8 +47,7 @@ Strong problem-solving and communication skills with a passion for **clean code*
 ![Teamwork](https://img.shields.io/badge/Teamwork-0A66C2?style=for-the-badge)
 
 ---
-
-## 📊 GitHub Stats & Contribution Graph  
+ 
 
 ## 📊 GitHub Stats & Activity  
 
@@ -61,6 +60,7 @@ Strong problem-solving and communication skills with a passion for **clean code*
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenjith&layout=compact&theme=radical&show_private=true" height="180em"/>
 </p>
 
+## 📊 GitHub  Contribution Graph 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveenjith&theme=radical&hide_border=true&area=true" height="250em"/>
 </p>
