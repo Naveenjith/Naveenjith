@@ -97,8 +97,7 @@ Strong problem-solving and communication skills with a passion for **clean code*
 ---
 
 ## 🐍 Contribution Graph
-![GitHub Snake Light](https://raw.githubusercontent.com/Naveenjith/Naveenjith/output/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Naveenjith/Naveenjith/output/snake.svg#gh-dark-mode-only)
+![GitHub Snake](https://raw.githubusercontent.com/Naveenjith/Naveenjith/output/snake.svg)
 
 
 
