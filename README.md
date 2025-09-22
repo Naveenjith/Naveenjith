@@ -66,26 +66,26 @@ Strong problem-solving and communication skills with a passion for **clean code*
 
 ## 🚀 Live Projects (Company Work – Private Repos)
 
-| Project | Description |
-|---------|-------------|
-| **Hospital Management System** | Streamlining patient and record management at Avanzo using Django and MySQL |
-| **UdaanCheck** | A travel-related application with real-time data and analytics |
-| **DoctorApp** | Doctor-focused app linked with HMS for appointments & patient interactions |
-| **MyCiso** | Cybersecurity-based project for secure systems management |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Hospital Management System** | Streamlining patient and record management at Avanzo using Django and MySQL | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-web-tokens&logoColor=white) |
+| **UdaanCheck** | Travel-related app with real-time data & analytics | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **DoctorApp** | Doctor-focused app linked with HMS for appointments & patient interactions | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| **MyCiso** | Cybersecurity-based project for secure systems management | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-web-tokens&logoColor=white) |
 
 ---
 
 ## 📚 Study Projects (Learning & Personal Work)
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **Navflix** | Subscription-based OTT platform with Stripe integration | [Repo](https://github.com/Naveenjith/navflix) |
-| **Task Management System** | Secure task management with Django REST & React | [Repo](https://github.com/Naveenjith/task-manager) |
-| **Blog Application** | Full CRUD blog app with Docker & Tailwind CSS | [Repo](https://github.com/Naveenjith/blog-app) |
-| **Weather App** | Real-time weather data display using WeatherAPI | [Repo](https://github.com/Naveenjith/weather-app) |
-| **BookApp** | Fetches and displays books data using Google Books API | [Repo](https://github.com/Naveenjith/bookapp) |
-| **Resume Builder** | Create and download resumes as PDFs | [Repo](https://github.com/Naveenjith/resume-builder) |
-| **Wheels4U** | Car rental website with search and booking functionality | [Repo](https://github.com/Naveenjith/wheels4u) |
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Navflix** | Subscription-based OTT platform with Stripe integration | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | [Repo](https://github.com/Naveenjith/navflix) |
+| **Task Management System** | Secure task management with Django REST & React | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-web-tokens&logoColor=white) | [Repo](https://github.com/Naveenjith/task-manager) |
+| **Blog Application** | Full CRUD blog app with Docker & Tailwind CSS | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | [Repo](https://github.com/Naveenjith/blog-app) |
+| **Weather App** | Real-time weather data display using WeatherAPI | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | [Repo](https://github.com/Naveenjith/weather-app) |
+| **BookApp** | Fetches and displays books data using Google Books API | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | [Repo](https://github.com/Naveenjith/bookapp) |
+| **Resume Builder** | Create and download resumes as PDFs | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | [Repo](https://github.com/Naveenjith/resume-builder) |
+| **Wheels4U** | Car rental website with search and booking functionality | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | [Repo](https://github.com/Naveenjith/wheels4u) |
 
 ---
 
