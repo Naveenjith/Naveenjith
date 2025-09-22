@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=200&section=header&text=Naveenjith%20PR&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,100:dd2476&height=180&section=header&text=Naveenjith%20PR&fontSize=45&fontColor=ffffff&fontAlign=50&animation=twinkling)
 
 # Hi, I'm Naveenjith PR 👋  
 **Backend Developer | Python & Django Enthusiast**
@@ -76,8 +76,9 @@ Strong problem-solving and communication skills with a passion for **clean code*
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Naveenjith&label=👀 Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Naveenjith&label=👀%20Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
 </p>
+
 
 ---
 
@@ -118,4 +119,5 @@ Strong problem-solving and communication skills with a passion for **clean code*
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:dd2476,100:ff512f&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer)
+
