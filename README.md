@@ -25,6 +25,8 @@ Strong problem-solving and communication skills with a passion for **clean code*
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 **Database & Tools:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,11 +36,11 @@ Strong problem-solving and communication skills with a passion for **clean code*
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-web-tokens&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 **Cloud & Storage:**  
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-
 
 **Soft Skills:**  
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-F7DF1E?style=for-the-badge)
@@ -47,7 +49,7 @@ Strong problem-solving and communication skills with a passion for **clean code*
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 📊 GitHub Stats & Contribution Graph  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naveenjith&show_icons=true&theme=radical" height="180em"/>
@@ -55,7 +57,7 @@ Strong problem-solving and communication skills with a passion for **clean code*
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenjith&theme=radical&hide_border=true" height="180em"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Naveenjith&theme=react-dark&hide_border=true" height="180em"/>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Naveenjith&color=blue&style=flat-square)
@@ -95,11 +97,5 @@ Strong problem-solving and communication skills with a passion for **clean code*
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navinjith555@gmail.com)
 
 ---
-
-## 🐍 Contribution Graph
-![GitHub Snake](https://raw.githubusercontent.com/naveenjith/Naveenjith/main/snake.svg)
-
-
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:dd2476,100:ff512f&height=120&section=footer)
