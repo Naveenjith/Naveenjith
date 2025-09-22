@@ -1,3 +1,5 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=200&section=header&text=Naveenjith%20PR&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+
 # Hi, I'm Naveenjith PR 👋  
 **Backend Developer | Python & Django Enthusiast**
 
@@ -8,7 +10,7 @@ Skilled **Backend Developer** with expertise in **Python and Django**, and hands
 Proficient in designing **secure, scalable backend systems** and integrating with front-end frameworks.  
 Strong problem-solving and communication skills with a passion for **clean code** and **high-impact projects**.
 
-- 👯 Looking to collaborate on **Full-Stack and Django projects**
+- 👯 Looking to collaborate on **Full-Stack and Django projects**  
 - 💬 Ask me about **Python, Django, REST APIs, and Web Development**
 
 ---
@@ -31,6 +33,12 @@ Strong problem-solving and communication skills with a passion for **clean code*
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-web-tokens&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Cloud & Storage:**  
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+
 
 **Soft Skills:**  
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-F7DF1E?style=for-the-badge)
@@ -39,14 +47,18 @@ Strong problem-solving and communication skills with a passion for **clean code*
 
 ---
 
-
 ## 📊 GitHub Stats & Activity  
 
-![Naveenjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveenjith&show_icons=true&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveenjith&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenjith&layout=compact&theme=radical" height="180em"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenjith&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenjith&theme=radical&hide_border=true" height="180em"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Naveenjith&theme=radical&hide_border=true)  
+![Profile Views](https://komarev.com/ghpvc/?username=Naveenjith&color=blue&style=flat-square)
 
 ---
 
@@ -65,13 +77,13 @@ Strong problem-solving and communication skills with a passion for **clean code*
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Navflix** | Subscription-based OTT platform with Stripe integration | [Repo](https://github.com/NaveenjithPR/navflix) |
-| **Task Management System** | Secure task management with Django REST & React | [Repo](https://github.com/NaveenjithPR/task-manager) |
-| **Blog Application** | Full CRUD blog app with Docker & Tailwind CSS | [Repo](https://github.com/NaveenjithPR/blog-app) |
-| **Weather App** | Real-time weather data display using WeatherAPI | [Repo](https://github.com/NaveenjithPR/weather-app) |
-| **BookApp** | Fetches and displays books data using Google Books API | [Repo](https://github.com/NaveenjithPR/bookapp) |
-| **Resume Builder** | Create and download resumes as PDFs | [Repo](https://github.com/NaveenjithPR/resume-builder) |
-| **Wheels4U** | Car rental website with search and booking functionality | [Repo](https://github.com/NaveenjithPR/wheels4u) |
+| **Navflix** | Subscription-based OTT platform with Stripe integration | [Repo](https://github.com/Naveenjith/navflix) |
+| **Task Management System** | Secure task management with Django REST & React | [Repo](https://github.com/Naveenjith/task-manager) |
+| **Blog Application** | Full CRUD blog app with Docker & Tailwind CSS | [Repo](https://github.com/Naveenjith/blog-app) |
+| **Weather App** | Real-time weather data display using WeatherAPI | [Repo](https://github.com/Naveenjith/weather-app) |
+| **BookApp** | Fetches and displays books data using Google Books API | [Repo](https://github.com/Naveenjith/bookapp) |
+| **Resume Builder** | Create and download resumes as PDFs | [Repo](https://github.com/Naveenjith/resume-builder) |
+| **Wheels4U** | Car rental website with search and booking functionality | [Repo](https://github.com/Naveenjith/wheels4u) |
 
 ---
 
@@ -79,6 +91,12 @@ Strong problem-solving and communication skills with a passion for **clean code*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-F7DF1E?style=for-the-badge&logo=Google-Chrome&logoColor=black)](https://naveenjithpr.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenjithpr/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaveenjithPR)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naveenjith)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navinjith555@gmail.com)
 
+---
+
+## 🐍 Contribution Graph
+![snake gif](https://github.com/Naveenjith/Naveenjith/blob/output/github-contribution-grid-snake.svg)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:dd2476,100:ff512f&height=120&section=footer)
