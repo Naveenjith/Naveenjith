@@ -39,12 +39,14 @@ Strong problem-solving and communication skills with a passion for **clean code*
 
 ---
 
-## 📊 GitHub Stats
 
-![NaveenjithPR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naveenjith&show_icons=true&theme=radical&hide_border=false&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenjith&layout=compact&theme=radical&hide_border=false)  
+## 📊 GitHub Stats & Activity  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naveenjith&theme=radical)
+![Naveenjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveenjith&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenjith&layout=compact&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Naveenjith&theme=radical&hide_border=true)  
 
 ---
 
