@@ -63,7 +63,7 @@ Strong problem-solving and communication skills with a passion for **clean code*
 ## 📊 GitHub  Contribution Graph 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveenjith&bg_color=0d0d0d&color=ff00ff&line=00ffff&point=ffffff&area=true&area_color=8000ff&hide_border=true" height="250em"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveenjith&bg_color=0f2027&color=2c5364&line=00c6ff&point=ffffff&area=true&area_color=00c6ff&hide_border=true" height="250em"/>
 </p>
 
 
