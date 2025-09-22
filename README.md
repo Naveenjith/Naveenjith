@@ -76,8 +76,9 @@ Strong problem-solving and communication skills with a passion for **clean code*
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=👀%20Profile%20Views&query=value&url=https://api.countapi.xyz/hit/Naveenjith/Naveenjith" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Naveenjith&label=👀%20Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
 </p>
+
 
 
 
@@ -120,6 +121,6 @@ Strong problem-solving and communication skills with a passion for **clean code*
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:dd2476,100:ff512f&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer)
 
 
