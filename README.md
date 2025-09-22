@@ -108,5 +108,13 @@ Strong problem-solving and communication skills with a passion for **clean code*
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navinjith555@gmail.com)
 
 ---
+---
+
+### 🐍 Watch my contributions snake around!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Naveenjith/Naveenjith/output/snake.svg" alt="Snake animation" />
+</p>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:dd2476,100:ff512f&height=120&section=footer)
