@@ -50,13 +50,19 @@ Strong problem-solving and communication skills with a passion for **clean code*
 
 ## 📊 GitHub Stats & Contribution Graph  
 
+## 📊 GitHub Stats & Activity  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveenjith&show_icons=true&show_private=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveenjith&show_icons=true&show_private=true&theme=radical&rank_icon=github" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenjith&theme=radical" height="180em"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenjith&layout=compact&theme=radical&show_private=true" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Naveenjith&theme=react-dark&hide_border=true" height="180em"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveenjith&theme=radical&hide_border=true&area=true" height="250em"/>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Naveenjith&color=blue&style=flat-square)
