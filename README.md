@@ -66,12 +66,18 @@ Strong problem-solving and communication skills with a passion for **clean code*
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveenjith&bg_color=0f2027&color=2c5364&line=00c6ff&point=ffffff&area=true&area_color=00c6ff&hide_border=true" height="250em"/>
 </p>
 
+### 🐍 Watch my contributions snake around!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Naveenjith/Naveenjith/output/snake.svg" alt="Snake animation" />
+</p>
 
 
 
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=Naveenjith&color=blue&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Naveenjith&label=👀 Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+</p>
 
 ---
 
@@ -108,13 +114,8 @@ Strong problem-solving and communication skills with a passion for **clean code*
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navinjith555@gmail.com)
 
 ---
----
 
-### 🐍 Watch my contributions snake around!
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Naveenjith/Naveenjith/output/snake.svg" alt="Snake animation" />
-</p>
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:dd2476,100:ff512f&height=120&section=footer)
