@@ -101,4 +101,5 @@ Strong problem-solving and communication skills with a passion for **clean code*
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Naveenjith/Naveenjith/output/snake.svg#gh-dark-mode-only)
 
 
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:dd2476,100:ff512f&height=120&section=footer)
