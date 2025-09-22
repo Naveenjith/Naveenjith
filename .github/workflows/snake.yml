@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule: # Runs every 12 hours
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,11 +12,17 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Snake
-        uses: Platane/snk@master
+      - name: Generate Snake (Cyberpunk Style 🐍✨)
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Naveenjith
           outputs: dist/snake.svg
+        env:
+          # Snake colors (neon/cyberpunk style)
+          SNAKE_COLOR: "#00FFFF"     # Neon cyan
+          APPLE_COLOR: "#FF00FF"     # Magenta
+          BACKGROUND_COLOR: "#0D0D0D" # Dark techy background
+          GRID_COLOR: "#222222"      # Subtle dark grid
 
       - name: Push Snake to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
