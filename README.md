@@ -61,9 +61,11 @@ Strong problem-solving and communication skills with a passion for **clean code*
 </p>
 
 ## 📊 GitHub  Contribution Graph 
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveenjith&theme=radical&hide_border=true&area=true" height="250em"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveenjith&theme=react&hide_border=true&bg_color=0d1117&color=36BCF7&line=FF0080&point=F7FF00&area=true" height="250em"/>
 </p>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Naveenjith&color=blue&style=flat-square)
 
