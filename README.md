@@ -53,7 +53,7 @@ Strong problem-solving and communication skills with a passion for **clean code*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naveenjith&show_icons=true&show_private=true&theme=radical&rank_icon=github" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveenjith&theme=radical" height="180em"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=Naveenjith&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180em"/>
 </p>
 
 <p align="center">
