@@ -111,12 +111,11 @@ Strong problem-solving and communication skills with a passion for **clean code*
 | **Wheels4U** | Car rental website with search and booking functionality | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | [Repo](https://github.com/Naveenjith/wheels4u) |
 
 ---
-## 🏆 GitHub Achievements  
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naveenjith&theme=radical&no-frame=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Naveenjith&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
-
 
 
 ---
