@@ -111,30 +111,6 @@ Strong problem-solving and communication skills with a passion for **clean code*
 | **Wheels4U** | Car rental website with search and booking functionality | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | [Repo](https://github.com/Naveenjith/wheels4u) |
 
 
----
-
-## 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naveenjith&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naveenjith&theme=radical" alt="Profile Details" height="200em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naveenjith&theme=radical" alt="Repos per Language" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naveenjith&theme=radical" alt="Most Commit Language" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naveenjith&theme=radical" alt="Stats" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naveenjith&theme=radical&utcOffset=5" alt="Productive Time" height="180em"/>
-</p>
-
----
-
 
 ---
 
