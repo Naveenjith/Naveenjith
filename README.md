@@ -115,7 +115,7 @@ Strong problem-solving and communication skills with a passion for **clean code*
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Naveenjith&theme=radical&no-bg=true&margin-w=15&margin-h=15" alt="github trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Naveenjith&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15&v=1" alt="github trophy" />
   </a>
 </p>
 
