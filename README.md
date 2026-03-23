@@ -114,9 +114,10 @@ Strong problem-solving and communication skills with a passion for **clean code*
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naveenjith&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Naveenjith&theme=radical&no-bg=true&margin-w=15&margin-h=15" alt="github trophy" />
+  </a>
 </p>
-
 
 ---
 
